@@ -618,6 +618,133 @@
                     "description": "Implementation Guide HDDT Version 1.0.1"
                 }
             ]
+        },
+        {
+            "name": "ISiK",
+            "category": "gematik",
+            "npm-name": "de.gematik.isik",
+            "description": "Diese IGs beschreibt Schnittstellen und Profile für den Austausch zwischen Hilfmitteln und Implantaten und Digitalen Gesundheitsanwendungen DiGA",
+            "canonical": "https://gematik.de/fhir/isik",
+            "editions": [
+                {
+                    "name": "ISiK Basis 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/basis/6.0.0",
+                    "description": "Implementation Guide ISiK Basis Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Dokumentenaustausch 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/dokumentenaustausch/6.0.0",
+                    "description": "Implementation Guide ISiK Dokumentenaustauschmodul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Vitalparameter 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/vitalparameter/6.0.0",
+                    "description": "Implementation Guide ISiK Vitalparametermodul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Terminplanung 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/terminplanung/6.0.0",
+                    "description": "Implementation Guide ISiK Terminplanungsmodul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Medikation 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/medikation/6.0.0",
+                    "description": "Implementation Guide ISiK Medikationsmodul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK ICU 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/icu/6.0.0",
+                    "description": "Implementation Guide ISiK ICU-Normalstation-Modul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Labor 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/labor/6.0.0",
+                    "description": "Implementation Guide ISiK Labormodul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Connect 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/connect/6.0.0",
+                    "description": "Implementation Guide ISiK Connect-Modul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Subscriptions 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/subscriptions/6.0.0",
+                    "description": "Implementation Guide ISiK Subscription-Modul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Organspendeerkennung 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/organspendeerkennung/6.0.0",
+                    "description": "Implementation Guide ISiK Organspendeerkennung Version 6.0.0"
+                },
+                {
+                    "name": "ISiK AMTS 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/amts/6.0.0",
+                    "description": "Implementation Guide ISiK AMTS-Modul Version 6.0.0"
+                },
+                {
+                    "name": "ISiK Formular 6.0.0",
+                    "ig-version": "6.0.0",
+                    "package": "de.gematik.isik#6.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/isik/formular/6.0.0",
+                    "description": "Implementation Guide ISiK Formular-Modul Version 6.0.0"
+                }
+            ]
         }
-    ]
-}
