@@ -559,6 +559,65 @@
                     "description": "Dieser IG Beschreibt Schnittstellen und Profile für den Datenaustauch des digitalen Durchschlag E-T-Rezept zwischen E-Rezept-Fachdienst und BfArM T-Register in Version 1.1.1"
                 }
             ]
+        },
+        {
+            "name": "Health Data Device Transfer",
+            "category": "gematik",
+            "npm-name": "de.gematik.hddt",
+            "description": "Dieser IG beschreibt Schnittstellen und Profile für den Austausch zwischen Hilfmitteln und Implantaten und Digitalen Gesundheitsanwendungen DiGA",
+            "canonical": "https://gematik.de/fhir/hddt",
+            "editions":[
+                {
+                    "name": "HDDT 0.1.0",
+                    "ig-version": "0.1.0",
+                    "package": "de.gematik.hddt#0.1.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/hddt/0.1.0",
+                    "description": "Implementation Guide HDDT Version 0.1.0"
+                },
+                {
+                    "name": "HDDT 1.0.0-rc1",
+                    "ig-version": "1.0.0-rc1",
+                    "package": "de.gematik.hddt#1.0.0-rc1",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/hddt/1.0.0-rc1",
+                    "description": "Implementation Guide HDDT Version 1.0.0-rc1"
+                },
+                {
+                    "name": "HDDT 1.0.0-rc2",
+                    "ig-version": "1.0.0-rc2",
+                    "package": "de.gematik.hddt#1.0.0-rc2",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/hddt/1.0.0-rc2",
+                    "description": "Implementation Guide HDDT Version 1.0.0-rc2"
+                },
+                {
+                    "name": "HDDT 1.0.0",
+                    "ig-version": "1.0.0",
+                    "package": "de.gematik.hddt#1.0.0",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/hddt/1.0.0",
+                    "description": "Implementation Guide HDDT Version 1.0.0"
+                },
+                {
+                    "name": "HDDT 1.0.1",
+                    "ig-version": "1.0.1",
+                    "package": "de.gematik.hddt#1.0.1",
+                    "fhir-version": [
+                        "4.0.1"
+                    ],
+                    "url": "https://gemspec.gematik.de/fhir/ig/hddt/1.0.1",
+                    "description": "Implementation Guide HDDT Version 1.0.1"
+                }
+            ]
         }
     ]
 }
