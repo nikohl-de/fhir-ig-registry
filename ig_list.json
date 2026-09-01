@@ -623,7 +623,7 @@
             "name": "ISiK",
             "category": "gematik",
             "npm-name": "de.gematik.isik",
-            "description": "Diese IGs beschreibt Schnittstellen und Profile für den Austausch zwischen Hilfmitteln und Implantaten und Digitalen Gesundheitsanwendungen DiGA",
+            "description": "Diese IGs beschreiben Schnittstellen und Profile für den Austausch zwischen Informations-Systemen im Krankenhaus (ISiK).",
             "canonical": "https://gematik.de/fhir/isik",
             "editions": [
                 {
